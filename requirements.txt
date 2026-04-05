@@ -1,0 +1,9 @@
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+matplotlib>=3.9
+seaborn>=0.13
+shap>=0.46
+streamlit>=1.44
+duckdb>=1.0
+pyarrow>=16.1
